@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210">
+<rect width="420" height="210" fill="#fcf9f5"/>
+<!-- garden weeds -->
+<g stroke="#527936" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M70 183 Q52 156 50 135 Q72 145 83 162 Q80 140 90 123 Q102 147 99 171 Q113 152 131 152 Q116 173 117 185" fill="#89b860"/>
+<path d="M254 186 Q243 150 231 136 Q254 143 264 166 Q268 138 283 126 Q292 147 282 174 Q304 149 325 152 Q310 172 311 185" fill="#82b553"/>
+<path d="M330 186 Q318 163 309 148 Q331 153 340 167 Q342 151 359 144 Q361 166 354 184" fill="#b3ce73"/>
+<path d="M113 184 Q129 156 144 151 Q149 165 140 183" fill="#bfd47d"/>
+</g>
+<!-- light orange trimmer motor and handgrip -->
+<g transform="rotate(-15 220 105)" stroke="#5b4b3c" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M76 69 Q82 55 100 51 L133 58 Q146 62 146 76 L141 89 L88 84Z" fill="#e8ad48"/>
+<path d="M86 65 L122 71" stroke="#ffe7a0" stroke-width="5"/>
+<path d="M136 78 L314 158" stroke="#8b8f84" stroke-width="10"/>
+<path d="M164 89 Q169 56 187 63 Q200 70 195 104" stroke="#684936" stroke-width="6" fill="none"/>
+<path d="M291 139 Q315 138 331 157 L338 169 Q313 183 292 165Z" fill="#e5a53e"/>
+<path d="M308 176 Q321 179 339 180" stroke="#525651" stroke-width="5"/>
+<path d="M338 181 L363 183" stroke="#7a7d74" stroke-width="3"/>
+</g>
+<!-- short cut grass flecks -->
+<g fill="none" stroke="#79a64c" stroke-width="3" stroke-linecap="round"><path d="M175 174l9 -6"/><path d="M187 182l13 -3"/><path d="M209 173l7 -10"/><path d="M225 187l13 -2"/><path d="M165 190l10 -2"/></g>
+</svg>
